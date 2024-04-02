@@ -15,6 +15,9 @@ The provided code performs the following tasks:
 -The chatbot allows users to interactively ask questions based on the preprocessed dataset. It preprocesses the user's input, predicts the answer using the BERT model, and returns the response.
 
 ![image](https://github.com/sri3010/X-horizon-Intel-hackathon/assets/112573558/300c8775-e6d0-418f-9ebe-372b569acedd)
+
 ![image](https://github.com/sri3010/X-horizon-Intel-hackathon/assets/112573558/0cb7765d-896c-4f03-8db3-f7f9abbd77c3)
+
 ![image](https://github.com/sri3010/X-horizon-Intel-hackathon/assets/112573558/f147b6a6-6529-4b0c-93d4-05a425e886ff)
+
 ![image](https://github.com/sri3010/X-horizon-Intel-hackathon/assets/112573558/4dc3e6ac-9a12-4340-b776-57bb11de589d)
