@@ -4,3 +4,4 @@ This synergy of advanced technology promises to revolutionize education by foste
 By harnessing the power of Intel's cutting-edge hardware and AI algorithms, educators can create dynamic educational experiences that inspire curiosity, creativity, and critical thinking skills in children, preparing them for success in the digital age and beyond. 
 
 solution:
+![image](https://github.com/sri3010/X-horizon-Intel-hackathon/assets/112573558/300c8775-e6d0-418f-9ebe-372b569acedd)
