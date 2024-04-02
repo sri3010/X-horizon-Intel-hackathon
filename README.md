@@ -8,10 +8,15 @@ We have developed a chatbot which helps solve math problems and answers queries 
 The provided code performs the following tasks:
 
 -Imports necessary libraries, including TensorFlow and Hugging Face Transformers.
+
 -Defines functions for extracting text from PDF files, preprocessing text, and preprocessing the dataset.
+
 -Loads a pre-trained BERT model and tokenizer for question answering.
+
 -Defines functions for predicting answers, including handling large contexts.
+
 -Implements a simple chatbot interface that allows users to ask questions and receive answers based on the preprocessed dataset and the BERT model.
+
 -The chatbot allows users to interactively ask questions based on the preprocessed dataset. It preprocesses the user's input, predicts the answer using the BERT model, and returns the response.
 
 ![image](https://github.com/sri3010/X-horizon-Intel-hackathon/assets/112573558/300c8775-e6d0-418f-9ebe-372b569acedd)
